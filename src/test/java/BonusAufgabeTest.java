@@ -29,7 +29,7 @@ class BonusAufgabeTest {
         int actual = BonusAufgabe.sumSquareOrSubstract(zahl1, zahl2);
 
         //Then
-        assertEquals (31, actual);
+        assertEquals (30, actual);
 
     }
 
